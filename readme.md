@@ -13,7 +13,7 @@ cat ips.txt | fip
 ```
 
 ```
-cat resolvers.txt | fip
+cat ips.txt | fip
 
 64.6.64.6
 94.140.14.140
